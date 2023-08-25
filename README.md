@@ -3,6 +3,8 @@
 
 
 - 📫 How to reach me **kamesh1620@gmail.com**
+- 🤝 Open to Collaboration:
+I'm eager to collaborate on open-source projects and learn from experienced developers. If you're interested in mentoring or collaborating, I'd love to connect.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
