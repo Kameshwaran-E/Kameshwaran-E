@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kameshwaran</h1> <br/>
-<h3 align="center">A passionate Full Stack developer from India,I'm excited about crafting immersive web experiences and honing my skills across various technologies.</h3>
+<h1 align="center">Hi 👋, I'm Kameshwaran</h1> 
+<h3 align="center">A passionate Full Stack developer from India.</h3>
+<h3 align='center'>  I'm excited about crafting immersive web experiences and honing my skills across various technologies.</h3>
 
 
 - 📫 How to reach me **kamesh1620@gmail.com**
